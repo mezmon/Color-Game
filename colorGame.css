@@ -1,0 +1,85 @@
+body {
+  background-color: #232323;
+}
+
+header {
+  background-color: #232323;
+  color: black;
+}
+
+#container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  /*background-color: lightblue;*/
+  padding: 10px;
+  margin-bottom: 20px;
+  justify-content: center;
+}
+
+#container>div {
+  background-color: green;
+  border-radius: 20px;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  transition: background 0.1s;
+  -webkit-transition: background 0.1s;
+  -moz-transition: background 0.1s;
+}
+
+/*Buttons*/
+
+#message {
+  /*grid-column: 6/7;*/
+  color: black;
+  font-size: 30px;
+  /*width: 20%;*/
+}
+
+#newColorButton {
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+button {
+  background: none;
+  border: none;
+  text-transform: uppercase;
+  height: 100%;
+  font-size: 15px;
+  transition: all 0.3s;
+}
+
+button:hover {
+  color: lightGrey;
+  background: #232323;
+}
+
+#colorToDisplay {
+  font-size: 50px;
+}
+
+h1 {
+  display: grid;
+  color: lightGrey;
+  text-align: center;
+  font-size: 30px;
+  padding: 5px;
+  margin: 0;
+  width: 100%;
+}
+
+.miniHeader {
+  display: inline-grid;
+  grid-gap: 10px;
+  background-color: lightgrey;
+  text-align: center;
+  width: 100%;
+  padding: 10px 10px;
+}
+
+.selected {
+  background: #232323;
+  color: lightGrey;
+}
