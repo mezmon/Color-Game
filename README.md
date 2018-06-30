@@ -7,7 +7,7 @@ correct color box by clicking on it.
 
 Reset game at any time or upon a win! Enjoy! :)
 
-![Color Game](Color-Game/images/Screen Shot 2018-06-29 at 5.22.02 PM.png)
+![Color Game](https://github.com/mezmon/Color-Game/blob/master/images/Screen%20Shot%202018-06-29%20at%205.22.02%20PM.png?raw=true)
 
 ## Motivation
 
