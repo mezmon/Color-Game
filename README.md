@@ -14,3 +14,10 @@ Reset game at any time or upon a win! Enjoy! :)
 ## Motivation
 
 I built this to test my current knowledge and to expand on my JS skills.
+
+## How to play
+
+1. Clone the repository
+2. Open as project root in your code editor
+3. Launch colorGame.html in browser window
+4. Enjoy!
