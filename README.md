@@ -7,7 +7,7 @@ correct color box by clicking on it.
 
 Reset game at any time or upon a win! Enjoy! :)
 
-![Color Game](images/Screen Shot 2018-06-29 at 5.22.02 PM.png Welcome screen)
+![Color Game](Color-Game/images/Screen Shot 2018-06-29 at 5.22.02 PM.png)
 
 ## Motivation
 
