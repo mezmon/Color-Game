@@ -7,7 +7,11 @@ correct color box by clicking on it.
 
 Reset game at any time or upon a win! Enjoy! :)
 
+<<<<<<< HEAD
 ## Test
+=======
+## other test
+>>>>>>> 481227dabdd018df49d7b7a133ba042f527ce3e6
 
 ## Screenshot
 
